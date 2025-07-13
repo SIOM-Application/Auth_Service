@@ -1,0 +1,6 @@
+.DS_Store
+Auth_Service/Auth_Service/appsettings.Development.json
+Auth_Service/Auth_Service/obj/Debug/net8.0/ref/Auth_Service.dll
+Auth_Service/Auth_Service/obj/Debug/net8.0/refint/Auth_Service.dll
+bin/
+obj/
